@@ -1,0 +1,43 @@
+2026-10-28 19:24:05,011 - INFO - Вызываемая функция: '__init__' | Время выполнения: 3.00 сек.
+2026-10-28 19:24:10,067 - INFO - Вызываемая функция: 'get_links_on_page' | Время выполнения: 0.06 сек.
+2026-10-28 19:25:55,469 - INFO - Вызываемая функция: 'get_info' | Время выполнения: 98.37 сек.
+2026-10-28 19:25:55,563 - INFO - Вызываемая функция: 'creating_csv_file' | Время выполнения: 0.09 сек.
+2026-10-28 19:25:55,563 - INFO - Вызываемая функция: 'main' | Время выполнения: 113.55 сек.
+2026-10-28 19:48:15,104 - INFO - Используемый User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1
+2026-10-28 19:48:15,104 - INFO - Используемый Proxy: 190.61.88.147:8080
+2026-10-28 19:48:23,667 - INFO - Вызываемая функция: '__init__' | Время выполнения: 8.58 сек.
+2026-10-28 19:48:28,673 - INFO - Вызываемая функция: 'get_links_on_page' | Время выполнения: 0.00 сек.
+2026-10-28 19:48:35,705 - INFO - Вызываемая функция: 'get_info' | Время выполнения: 0.00 сек.
+2026-10-28 19:48:35,705 - INFO - Вызываемая функция: 'creating_csv_file' | Время выполнения: 0.00 сек.
+2026-10-28 19:48:35,705 - INFO - Вызываемая функция: 'main' | Время выполнения: 20.62 сек.
+2026-10-28 19:48:56,578 - INFO - Используемый User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2026-10-28 19:48:56,578 - INFO - Используемый Proxy: 185.162.229.45:80
+2026-10-28 19:58:17,634 - INFO - Используемый User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+2026-10-28 19:58:17,838 - INFO - Используемый User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+2026-10-28 19:58:21,691 - INFO - Вызываемая функция: '__init__' | Время выполнения: 4.08 сек.
+2026-10-28 19:58:23,091 - INFO - Вызываемая функция: '__init__' | Время выполнения: 5.28 сек.
+2026-10-28 19:58:26,756 - INFO - Вызываемая функция: 'get_links_on_page' | Время выполнения: 0.06 сек.
+2026-10-28 19:58:28,145 - INFO - Вызываемая функция: 'get_links_on_page' | Время выполнения: 0.05 сек.
+2026-10-28 20:00:14,742 - INFO - Вызываемая функция: 'get_info' | Время выполнения: 99.57 сек.
+2026-10-28 20:00:14,790 - INFO - Вызываемая функция: 'creating_csv_file' | Время выполнения: 0.05 сек.
+2026-10-28 20:00:14,790 - INFO - Вызываемая функция: 'main' | Время выполнения: 116.98 сек.
+2026-10-28 20:00:15,129 - INFO - Вызываемая функция: 'get_info' | Время выполнения: 101.34 сек.
+2026-10-28 20:00:15,195 - INFO - Вызываемая функция: 'creating_csv_file' | Время выполнения: 0.07 сек.
+2026-10-28 20:00:15,196 - INFO - Вызываемая функция: 'main' | Время выполнения: 117.59 сек.
+2026-10-28 20:03:18,962 - INFO - Используемый User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+2026-10-28 20:03:22,269 - INFO - Вызываемая функция: '__init__' | Время выполнения: 3.34 сек.
+2026-10-28 20:03:27,316 - INFO - Вызываемая функция: 'get_links_on_page' | Время выполнения: 0.04 сек.
+2026-10-28 20:05:47,824 - INFO - Используемый User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2026-10-28 20:06:23,744 - INFO - Вызываемая функция: '__init__' | Время выполнения: 35.94 сек.
+2026-10-28 20:06:30,634 - INFO - Используемый User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2026-10-28 20:07:15,422 - INFO - Используемый User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1 Ddg/18.3
+2026-10-28 20:09:34,286 - INFO - Используемый User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+2026-10-28 20:10:07,624 - INFO - Вызываемая функция: '__init__' | Время выполнения: 33.36 сек.
+2026-10-28 20:10:11,539 - INFO - Используемый User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+2026-10-28 20:11:05,283 - INFO - Используемый User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+2026-10-28 20:12:46,486 - INFO - Используемый User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+2026-10-28 20:13:26,122 - INFO - Вызываемая функция: '__init__' | Время выполнения: 39.66 сек.
+2026-10-28 20:13:31,166 - INFO - Вызываемая функция: 'get_links_on_page' | Время выполнения: 0.04 сек.
+2026-10-28 20:15:15,810 - INFO - Вызываемая функция: 'get_info' | Время выполнения: 97.60 сек.
+2026-10-28 20:15:15,887 - INFO - Вызываемая функция: 'creating_csv_file' | Время выполнения: 0.08 сек.
+2026-10-28 20:15:15,887 - INFO - Вызываемая функция: 'main' | Время выполнения: 149.42 сек.
